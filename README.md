@@ -1,0 +1,2 @@
+# Locating-Missing-People-Using-Optimized-Face-Recognition-Algorithm
+Locating Missing People Using an Optimized Face Recognition Algorithm is a system that identifies missing persons by matching facial features from images or videos against a stored database. The optimized recognition process improves accuracy and speed, making it suitable for real-world surveillance and public safety applications.
